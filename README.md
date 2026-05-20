@@ -2,8 +2,7 @@
 
 An intelligent PDF chatbot built using Retrieval-Augmented Generation (RAG), LangChain, FAISS Vector Database, HuggingFace Embeddings, and Groq LLMs.
 
-This application allows users to upload PDF documents and ask questions based on the uploaded content.  
-The chatbot retrieves relevant document chunks using semantic similarity search and generates accurate responses using Groq AI models.
+The application allows users to upload PDF documents and ask context-aware questions from the uploaded content. The chatbot retrieves relevant document chunks using semantic similarity search and generates accurate responses using Groq-powered Large Language Models (LLMs).
 
 ---
 
